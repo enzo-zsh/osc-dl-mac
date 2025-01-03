@@ -7,7 +7,8 @@ OSCDL for Mac is the Python 3 and Qt app but buildable as a macOS application us
 
 With OSCDL, you can download hundreds of homebrew apps and themes to your computer send them directly to the Wii through the network or through USB Gecko.
 
-![Preview](https://user-images.githubusercontent.com/18469146/144217304-b690eba3-4c71-4791-9705-6dd36c0a1fcd.png)
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/93586115-59c0-4c99-9d2d-00fe2d4625be" />
+
 
 ## Installing OSCDL-for-Mac
 
@@ -27,6 +28,10 @@ See [USBGecko information on WiiBrew](https://wiibrew.org/wiki/USB_Gecko) for de
 
 When downloading drivers (if necessary), please use the COM (VCP) drivers instead of the D2XX API.
 
-##### Licences:
+#### icon:
+
+Icon made with Pixlr Editor and Iconery on macOS made by enzo-zsh (me).
+
+#### Licences:
 
 All right reserved at dhtdht020 the creator of OSC-DL.
